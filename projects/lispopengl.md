@@ -15,8 +15,7 @@ summary: "A 3D rendering software supporting lights and shading using OpenGL, wr
 <video src="https://github.com/user-attachments/assets/b623ce66-2e53-4f2b-8161-f1ede34a6586" width="1280" height="720" controls="controls"></video>
 
 ## Overview
-
-
+A rendering software written with Lisp in Emacs that supports 2D and 3D drawing of shapes. You can toggle between smooth shading and faceted shading in real time, and lights are also supported. 3D objects are constructed by drawing a list of polygons, similar to how modern rendering software create polyhedrons under the hood. However, polygons are not simplified to quads or tris in this program, and faces can be a polygon of any number of vertices.
 
 ## Role and Responsibilities
 
