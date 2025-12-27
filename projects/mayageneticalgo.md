@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../img/milestone4_c.jpg
-title: "3D Puzzle-based Game for CyberCANOE 3D Wall"
+title: "Shader Generator with Genetic Algorithms in Autodesk Maya"
 date: 2025
 published: true
 labels:
