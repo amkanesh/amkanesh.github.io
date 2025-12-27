@@ -6,7 +6,7 @@
     "email": "amkanesh@hawaii.edu",
     "phone": "808-206-6119",
     "website": "https://amkanesh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for an M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "amkanesh", "url": "http://github.com/amkanesh" },
@@ -14,15 +14,16 @@
     ]
   },
   "interests": [
+    { "name": "Graphics Programming" },
+    { "name": "Software Development" },
     { "name": "Network Engineering" },
-    { "name": "Japanese Language and Culture" },
-    { "name": "Sociology" },
-    { "name": "3D Graphics" }
+    { "name": "Japanese & Okinawan Language and Culture" },
+    { "name": "Sociology" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "C#", "Python", "SQL", "Java", "Javascript", "HTML", "CSS", "Meteor", "React", "MongoDB" ]
+      "keywords": [ "C", "C++", "C#", "Lisp", "Python", "SQL", "Java", "Javascript", "HTML", "CSS", "Meteor", "React", "MongoDB", "OpenGL", "Autodesk Maya", "Unity", "Unreal" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawai'i, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
-      "studyType": "B.S.",
-      "startDate": "2021-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "M.S.",
+      "startDate": "2025-09-01",
       "endDate": "Present",
       "courses": [
       ]
