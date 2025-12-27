@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/apcspfinal/ics685_proj2_thumbnail.png
+image: img/ics685_proj2_thumbnail.png
 title: "3D Puzzle-based Game for CyberCANOE 3D Wall"
 date: 2025
 published: true
@@ -14,10 +14,10 @@ summary: "An interactive, first-person puzzle game where you play as the Big Bad
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/apcspfinal/ics685_proj2_thumbnail.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ics685_proj2_thumbnail.png" class="img-thumbnail" >
 </div>
 
-<video src="../video/ics685_proj2_prev.mp4"></video>
+<video src="../video/ics685_proj2_prev.mp4" controls="controls" style="max-width: 730px;">
 
 ## Overview
 
