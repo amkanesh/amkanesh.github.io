@@ -12,10 +12,6 @@ labels:
 summary: "A 3D rendering software supporting lights and shading using OpenGL, written in Lisp."
 ---
 
-<video src="https://github.com/user-attachments/assets/1c63ac21-8793-4114-b35f-6b3d8aea8067" width="1280" height="720" controls="controls"></video>
-
-
-
 ## Overview
 
 
