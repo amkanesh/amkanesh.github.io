@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/user-attachments/assets/e8cdbb09-ffff-4c6f-ae17-3745d3a3a7f7
+image: ../img/milestone4_c.jpg
 title: "3D Puzzle-based Game for CyberCANOE 3D Wall"
 date: 2025
 published: true
