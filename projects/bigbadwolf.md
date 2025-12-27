@@ -14,11 +14,10 @@ summary: "An interactive, first-person puzzle game where you play as the Big Bad
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/ics685_proj2_thumbnail.png" class="img-thumbnail" >
+  <img width="500px" src="../img/ics685_proj2_thumbnail.png">
 </div>
 
-<video src="../video/ics685_proj2_prev.mp4" width="1280" height="720" controls>
-</video>
+<video src="../video/ics685_proj2_prev.mp4" width="1280" height="720" controls></video>
 
 ## Overview
 
