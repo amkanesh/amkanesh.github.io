@@ -23,7 +23,7 @@ summary: "An interactive, first-person puzzle game where you play as the Big Bad
 
 ## Overview
 
-A Unity-based puzzle game where you take the role of the Big Bad Wolf from The Three Little Pigs and attempt to use your breath to solve puzzles and enter the pigs' homes. For example
+A Unity-based puzzle game where you take the role of the Big Bad Wolf from The Three Little Pigs and attempt to use your breath to solve puzzles and enter the pigs' homes. For example, the pig with the brick house is protected by a drawbridge and a moat--to cross it, the player must blow the nearby torches to the drawbridge's suspension ropes to light them on fire, which will lower the drawbridge. The game utilizes Unity's built-in physics system to have the wolf "blow" air by applying a force to each targetable objects' Rigidbody. For more difficult interactions, like with the fire, an animation is used instead.
 
 ## Role and Responsibilities
 
