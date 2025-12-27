@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics685_proj2_thumbnail.png
+image: img/ics481_thumbnail.png
 title: "Custom OpenGL 3D Rendering Software in Lisp"
 date: 2025
 published: true
@@ -11,6 +11,8 @@ labels:
   - Graphics Programming
 summary: "A 3D rendering software supporting lights and shading using OpenGL, written in Lisp."
 ---
+
+<video src="https://github.com/user-attachments/assets/b623ce66-2e53-4f2b-8161-f1ede34a6586" width="1280" height="720" controls="controls"></video>
 
 ## Overview
 
