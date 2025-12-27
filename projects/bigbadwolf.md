@@ -17,7 +17,7 @@ summary: "An interactive, first-person puzzle game where you play as the Big Bad
   <img width="200px" src="../img/ics685_proj2_thumbnail.png" class="img-thumbnail" >
 </div>
 
-<video src="../video/ics685_proj2_prev.mp4" controls="controls" style="max-width: 730px;">
+<video src="../video/ics685_proj2_prev.mp4">
 </video>
 
 ## Overview
