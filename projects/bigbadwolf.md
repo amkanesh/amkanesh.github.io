@@ -13,10 +13,6 @@ labels:
 summary: "An interactive, first-person puzzle game where you play as the Big Bad Wolf trying to blow down the three pigs' houses."
 ---
 
-<div class="text-center p-4">
-  <img width="500px" src="../img/ics685_proj2_thumbnail.png">
-</div>
-
 <video src="https://github.com/user-attachments/assets/1c63ac21-8793-4114-b35f-6b3d8aea8067" width="1280" height="720" controls="controls"></video>
 
 ## Overview
