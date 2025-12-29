@@ -24,7 +24,7 @@ The system uses custom-made classes and performs all genetic combinations in the
 
 ## Role and Responsibilities
 
-This was a solo project. With some guidance from the professor, I was free to develop the system however I wanted.
+This was a solo project, developed over the course of half a semester. With some guidance from the professor, I was free to develop the system however I wanted.
 
 ## The Takeaways
 
