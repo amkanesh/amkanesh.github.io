@@ -21,7 +21,7 @@ A Unity-based puzzle game where you take the role of the Big Bad Wolf from The T
 
 ## Role and Responsibilities
 
-Though technically a group project, I ended up programming the overwhelming majority of it. This included shader creation (particularly the skybox and water), event management, breath force logic using Unity's physics system, animation, visuals and postproessing, and the UI, among other things. Assets were found from the Unity Asset Store and Sketchfab, though I also edited a few to suit our needs.
+This was created in a group of three over the course of two weeks. I programmed most of it: this included shader creation (particularly the skybox and water), event management, breath force logic using Unity's physics system, animation, visuals and postproessing, and the UI, among other things. Assets were found from the Unity Asset Store and Sketchfab, though I also edited a few to suit our needs.
 
 ## The Takeaways
 
