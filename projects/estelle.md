@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/estelle_icon.png
 title: "Unity VN - Estelle Margaux and the Secret of the Reapers"
-date: 2025
+date: 2024
 published: true
 labels:
   - Games
