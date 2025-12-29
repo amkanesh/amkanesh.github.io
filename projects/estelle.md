@@ -20,7 +20,7 @@ summary: "A point-and-click, mystery-based visual novel with a film noir twist."
 A Unity-based, 2D visual novel in which you play as the titular detective Estelle Margaux, attempting to exonerate her friend Allen Ritter. The game takes place in a fantasy setting where all characters have passed into the afterlife, and the world you interact with is a representation of the afterlife (hence the film noir, black and white aesthetic). The player has the ability to peer into the souls of the deceased and enter their memories, denoted by a specific color, to search for clues and flaws in their testimony. There is also an interrogation system.
 
 <div class="text-center p-4">
-  <img width="50%" src="../485_ui.png">
+  <img width="50%" src="../img/485_ui.png">
 </div>
 
 ## Role and Responsibilities
